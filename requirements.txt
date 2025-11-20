@@ -1,0 +1,6 @@
+azure-ai-formrecognizer==3.3.0
+azure-ai-translation-document==1.0.0
+azure-storage-blob==12.19.0
+python-dotenv==1.0.0
+requests==2.31.0
+reportlab==4.0.0

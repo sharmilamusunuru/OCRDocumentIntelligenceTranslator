@@ -1,0 +1,15 @@
+Outputs:
+
+document_intelligence_endpoint = "https://eastus.api.cognitive.microsoft.com/"
+document_intelligence_key = <sensitive>
+ocrresult_container_name = "ocrresult"
+original_container_name = "original"
+resource_group_name = "rg-ai-demo"
+storage_account_name = "staidemo"
+storage_account_primary_access_key = <sensitive>
+storage_account_primary_connection_string = <sensitive>
+translated_container_name = "translated"
+translator_endpoint = "https://api.cognitive.microsofttranslator.com/"
+translator_key = <sensitive>
+translator_location = "eastus"
+
