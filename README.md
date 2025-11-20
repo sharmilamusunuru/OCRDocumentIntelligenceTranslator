@@ -1,4 +1,4 @@
-# Dulux Demo - Document Intelligence and Translator
+#  Demo - Document Intelligence and Translator
 
 This project demonstrates Azure Document Intelligence (OCR) and Azure Translator services for processing documents in multiple formats (PDF, DOCX, PPTX). The solution extracts text using OCR and translates it from English to French.
 
@@ -194,7 +194,7 @@ After processing, you'll find:
 ## Project Structure
 
 ```
-duluxdemo/
+aidemo/
 ├── terraform/
 │   ├── main.tf          # Main infrastructure configuration
 │   ├── variables.tf     # Configurable variables
